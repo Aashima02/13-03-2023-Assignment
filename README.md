@@ -1,12 +1,12 @@
 # 13-03-2023-Assignment
 
 ### 1. Create program for the given pattern:
-
-* * * * *
-* * * * *
-* * * * *
-* * * * *
-* * * * *
+    
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
 
 ```java
 public class Pattern1
