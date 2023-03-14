@@ -106,32 +106,3 @@ OUTPUT:
 ![P3](https://user-images.githubusercontent.com/93427086/224885016-84dee49d-4e2a-4d22-bc55-a1ba9bb01cc4.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
