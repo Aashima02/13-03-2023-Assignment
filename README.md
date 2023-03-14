@@ -1,11 +1,12 @@
 # 13-03-2023-Assignment
 
 ### 1. Create program for the given pattern:
-*****
-*****
-*****
-*****
-*****
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
 
 ```java
 public class Pattern1
@@ -33,11 +34,12 @@ OUTPUT:
 
 
 ### 2. Create program for the given pattern:
-  * * * * * * * * * 
-    * * * * * * * 
-      * * * * * 
-        * * * 
-          * 
+
+  * * * * * * * * *
+    * * * * * * *
+      * * * * *
+        * * *
+          *
  
 ```java
 public class Pattern2
@@ -67,13 +69,14 @@ OUTPUT:
 
 
 ### 3. Create program for the given pattern:
-* 
-* * 
-* * * 
-* * * * 
-* * * 
-* * 
-*
+
+     *
+     * *
+     * * *
+     * * * *
+     * * *
+     * *
+     *
 
 ```java
 
