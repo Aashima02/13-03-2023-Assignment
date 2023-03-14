@@ -35,11 +35,11 @@ OUTPUT:
 
 ### 2. Create program for the given pattern:
 
-  * * * * * * * * *
-    * * * * * * *
-      * * * * *
-        * * *
-          *
+     * * * * * * * * *
+       * * * * * * *
+         * * * * *
+           * * *
+             *
  
 ```java
 public class Pattern2
